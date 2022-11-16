@@ -31,6 +31,7 @@
   <summary>Softwares and frameworks</summary>
 <img height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot"></img> I'm currently developing a game in Godot together with the Wizardry team. It's a fun yet complicated experience.
 
+
 <img height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code"></img> VSCode is my main editor at the moment, I use it in daily development.
 
 <img height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"></img> React was actually the first framework I ever used in JavaScript and I really enjoy using it. And yes, I've lived through the days of BootStrap or JQuery but I was never interested in any of them.
@@ -45,4 +46,4 @@ I am a 19 year old Brazilian young man who aims to become a software engineer. I
 
 Some also know me as a Mediator, I'm usually that neutral side that calms everyone's spirits during a confrontation, I have this calming effect where I try to smooth things back into a conversation where we can reach a mutual agreement.
 
-``Last update: November 16, 2022 at 7:25 am``
+``Last update: November 16, 2022 at 9:38 am``
