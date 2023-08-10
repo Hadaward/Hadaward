@@ -42,7 +42,7 @@
 </details>
 
 ### A little about myself
-I am a 19 year old Brazilian young man who aims to become a software engineer. I've always had a huge interest in programming because it's always fascinated me since I was a kid, you could even say that I was obsessed with learning but in fact programming causes me enormous comfort and pleasure. I love animals too, nature has always had a place in my heart as it is such a nurturing place. And as much as many may doubt I'm a homebody, I like comfort and I'm not one to socialize however I work very well in a team, I'm a great listener and I'm always ready to give my opinion on whatever is necessary.
+I am a 20 year old Brazilian young man who aims to become a software engineer. I've always had a huge interest in programming because it's always fascinated me since I was a kid, you could even say that I was obsessed with learning but in fact programming causes me enormous comfort and pleasure. I love animals too, nature has always had a place in my heart as it is such a nurturing place. And as much as many may doubt I'm a homebody, I like comfort and I'm not one to socialize however I work very well in a team, I'm a great listener and I'm always ready to give my opinion on whatever is necessary.
 
 Some also know me as a Mediator, I'm usually that neutral side that calms everyone's spirits during a confrontation, I have this calming effect where I try to smooth things back into a conversation where we can reach a mutual agreement.
 
