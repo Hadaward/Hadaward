@@ -46,4 +46,4 @@ I am a 20 year old Brazilian young man who aims to become a software engineer. I
 
 Some also know me as a Mediator, I'm usually that neutral side that calms everyone's spirits during a confrontation, I have this calming effect where I try to smooth things back into a conversation where we can reach a mutual agreement.
 
-``Last update: November 16, 2022 at 9:38 am``
+``Last update: Aug 10, 2023 at 5:34 pm``
