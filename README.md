@@ -48,6 +48,7 @@
     ![C#](https://img.shields.io/badge/C%20Sharp-%2300599C.svg?style=for-the-badge&logo=csharp%2B%2B&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
+    ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)
 
 <br>   
     
