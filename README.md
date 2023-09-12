@@ -1,49 +1,100 @@
-## Eduardo Gimenez
-🌐 In terms of web development I am a fullstack developer and I can work both on the backend and on the frontend but preferably I work more on the backend developing APIs with Express and other frameworks at my disposal.
+<h1 align="center">Hi 👋, I'm Hadaward</h1>
+<h3 align="center">Freelance back-end and front-end developer from Brazil</h3>
 
-👨🏻‍💻 In terms of software development, I have experience with C, C# and Python and I can develop from graphical interfaces using frameworks or developing my own, as well as developing the necessary subsystems for the operation of a software.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hadaward&label=Profile%20views&color=0e75b6&style=flat" alt="Hadaward" /> </p>
 
-🕹️ In terms of game development, I have experience with the development of auxiliary systems that complement the game, such as dialogue systems, translation systems, life systems, fishing, among many others.
-
-### Languages
-<img height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML 5"></img> HTML5 is indeed indispensable in the field of web development. A very simple and practical markup language based on XML.
-
-<img height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS 3"></img> CSS 3 is essential for theming our pages, but of course there's nothing better than frameworks like SCSS to improve our experience.
-
-<img height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript"></img> After dealing with PHP, my focus was on learning JavaScript. One of the most used languages in the context of web development, so much so that I still use it with other frameworks to enrich the user experience.
-
-<img height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"></img> My first experience with python I started working with servers for games, in fact I learned a lot with python and I still use it sometimes but not for servers but for data science and apis.
-
-<img height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSharp"></img> I learned C# recently and I'm still learning because I'm participating in the development of a game. Thank you [Wizardry Team](https://github.com/TeamWizardry) for this opportunity :heart:
-
-<details>
-  <summary>Which i don't use anymore but i have knowledge</summary>
-	
-<img height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"></img> I learned C so I could develop libraries for the Lua language and it was a strange but fun experience.
-
-<img height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua"></img> Lua was one of the first languages I learned when I started developing minigames for games where I developed a huge interest in the language itself.
-
-<img height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP"></img> PHP was my first touch with web development, where I created my first login system with a mysql database. Despite its evolution in recent times, I no longer have any interest in it.
-
-</details>
-
-<details>
-  <summary>Softwares and frameworks</summary>
-<img height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot"></img> I'm currently developing a game in Godot together with the Wizardry team. It's a fun yet complicated experience.
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 
-<img height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code"></img> VSCode is my main editor at the moment, I use it in daily development.
+- 🤝 I’m available for freelancing.
 
-<img height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"></img> React was actually the first framework I ever used in JavaScript and I really enjoy using it. And yes, I've lived through the days of BootStrap or JQuery but I was never interested in any of them.
+- 🌱 I’m currently learning more about React with TypeScript
+  
+- 🌱 I’m currently learning more about Styled Components
 
-<img height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express"></img> After learning React I had a huge interest in developing APIs with Express. I can say that it is very useful and it contains a huge base of plugins.
+- 💬 Ask me about **Vanilla JS and Modern Features**
 
-``There is a long list of software/frameworks, but these are the main ones at the moment.``
-</details>
+- 📫 How to reach me **eduardo.gimenez07@gmail.com**
 
-### A little about myself
-I am a 20 year old Brazilian young man who aims to become a software engineer. I've always had a huge interest in programming because it's always fascinated me since I was a kid, you could even say that I was obsessed with learning but in fact programming causes me enormous comfort and pleasure. I love animals too, nature has always had a place in my heart as it is such a nurturing place. And as much as many may doubt I'm a homebody, I like comfort and I'm not one to socialize however I work very well in a team, I'm a great listener and I'm always ready to give my opinion on whatever is necessary.
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-Some also know me as a Mediator, I'm usually that neutral side that calms everyone's spirits during a confrontation, I have this calming effect where I try to smooth things back into a conversation where we can reach a mutual agreement.
+<p align="center">
 
-``Last update: Aug 10, 2023 at 5:34 pm``
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Hadaward">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
+	</a>
+	<a style="margin-left: 10px;" target="_blank" href="https://discord.com/users/265937132886032407">
+		<img src="https://img.icons8.com/doodle/40/000000/discord--v2.png">
+	</a>
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/eduardo.gimenez07">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
+	</a>
+      </div>
+
+</p>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
+
+<p align="center">
+
+- **Languages**:
+    
+    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![C#](https://img.shields.io/badge/C%20Sharp-%2300599C.svg?style=for-the-badge&logo=csharp%2B%2B&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+    ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
+
+<br>   
+    
+- **Front-End Development**:
+
+   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+   ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge)
+   ![styled-components](https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=fff&style=for-the-badge)
+  
+<br>   
+    
+- **Back-End Development**:
+
+   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge)
+   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
+   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
+   ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge)
+  
+<br>
+
+- **Cloud Hosting**:
+
+    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    
+<br>
+
+- **Softwares and Tools**:
+
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Windows](https://img.shields.io/badge/Windows-FCC624?style=for-the-badge&logo=windows&logoColor=black) 
+
+<br>
+
+- **Extras**:
+
+    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+
+
+</p>
+
+---
+Last Edited on: September 12, 2023
