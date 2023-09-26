@@ -14,6 +14,8 @@
   
 - 🌱 I’m currently learning more about Styled Components
 
+- 🌱 I'm currently learning more about Kotlin + Java
+
 - 💬 Ask me about **Vanilla JS and Modern Features**
 
 - 📫 How to reach me **eduardo.gimenez07@gmail.com**
