@@ -21,7 +21,7 @@
 📫 Contact: **eduardo.gimenez07@gmail.com**
 
 ### 🌎 Spoken Languages
-![Portuguese](https://img.shields.io/badge/Portuguese-Brazil-green?style=for-the-badge)
+[![Portuguese](https://img.shields.io/badge/Portuguese-Brazil-green?style=for-the-badge)](./README-br.md)
 ![English](https://img.shields.io/badge/English-US-blue?style=for-the-badge)
 
 <br/>
